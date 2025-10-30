@@ -1,0 +1,9 @@
+{
+  "Balon": {
+    "id": "INTEGER",
+    "marca": "TEXT",
+    "tipo": "TEXT",
+    "precio": "REAL",
+    "cantidad": "INTEGER"
+  }
+}
